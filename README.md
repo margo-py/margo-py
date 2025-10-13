@@ -19,19 +19,19 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/mikaellareign/">
-    <img alt="linkedin profile" title="Follow Me on LinkedIn" src="https://img.shields.io/badge/linkedin-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="linkedin profile" title="Follow Me on LinkedIn!" src="https://img.shields.io/badge/linkedin-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
 <a href="https://www.instagram.com/kamriesan/">
-    <img alt="Instagram profile" title="Follow Me on Insta" src="https://img.shields.io/badge/instagram-9d4edd?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="Instagram profile" title="Follow Me on Insta. Not very active. 📷" src="https://img.shields.io/badge/instagram-9d4edd?style=for-the-badge&logo=instagram&logoColor=white">
 
   </a>
 <a href="https://www.behance.net/mikaellareign">
-    <img alt="Behance profile" title="Follow Me on Behance" src="https://img.shields.io/badge/behance-9d4edd?style=for-the-badge&logo=behance&logoColor=white">
+    <img alt="Behance profile" title="Follow Me on Behance. I create digital art there! 🖌️" src="https://img.shields.io/badge/behance-9d4edd?style=for-the-badge&logo=behance&logoColor=white">
 
   </a>
 <a href="https://www.duolingo.com/profile/kamriesan">
-    <img alt="Duolingo profile" title="Add Me on Duolingo" src="https://img.shields.io/badge/duolingo-9d4edd?style=for-the-badge&logo=duolingo&logoColor=white">
+    <img alt="Duolingo profile" title="Bonsoir! Add Me on Duolingo 🦉 :3" src="https://img.shields.io/badge/duolingo-9d4edd?style=for-the-badge&logo=duolingo&logoColor=white">
   </a>
 </p>
 
