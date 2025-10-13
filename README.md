@@ -95,6 +95,7 @@
 
 <p align="center">
   <br>
-  <a href="https://www.youtube.com/watch?v=FyQi79aYfxU&t=4s" style="color: #9d4edd;"><em>A frustrated creative at heart. Sometimes passionate about sciences and maths, but sometimes finds it hard. An advocate for lifelong-learning.  
+  A creative at heart. Frustrated in AI, computer sciences and maths, but an advocate for lifelong-learning.
+  <a href="https://www.youtube.com/watch?v=FyQi79aYfxU&t=4s" style="color: #9d4edd;"><em>  
   DFTBA!</em></a>
 </p>
