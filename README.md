@@ -30,6 +30,9 @@
 <a href="https://www.duolingo.com/profile/kamriesan">
     <img alt="Duolingo profile" title="Bonsoir! Add Me on Duolingo 🦉 :3" src="https://img.shields.io/badge/duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
   </a>
+<a href="https://mikadesigns.webflow.io/">
+    <img alt="Portfolio" title="Check out my portfolio! ✨" src="https://img.shields.io/badge/portfolio-9d4edd?style=for-the-badge&logo=googlehome&logoColor=white">
+  </a>
 </p>
 
 
