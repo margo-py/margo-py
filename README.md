@@ -10,7 +10,7 @@
 </p>
 <h3 align="center">Welcome to my GitHub profile </h3>
 
-<p align="center"> front-end developer, wordpress developer, graphic designer, ui/ux designer, and over all explorer in tech.～☆</p>
+<p align="center"> front-end developer, graphic designer, ui/ux designer, and over all explorer in tech.～☆</p>
 
 
 
@@ -45,6 +45,13 @@
 
 ---
 
+
 <p align="center">
   <a href="https://github.com/margo-py"><img src="https://github-readme-stats.vercel.app/api?username=margo-py&hide_border=true&show_icons=true&title_color=9d4edd&icon_color=9d4edd&text_color=9d4edd" alt="margo-py's github stats"></a>
+</p>
+
+
+<p align="center">
+  <br>
+  <a href="https://www.youtube.com/watch?v=FyQi79aYfxU&t=4s" style="color: #9d4edd;"><em>DFTBA!</em></a>
 </p>
