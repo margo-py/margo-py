@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mikadesigns.webflow.io/">
-    <img src="https://64.media.tumblr.com/1dd030b239a5dc3534012a00423f3588/tumblr_o52aqu3BLG1ttph68o1_1280.gif" alt="Banner" width="50%">
+    <img src="https://64.media.tumblr.com/1dd030b239a5dc3534012a00423f3588/tumblr_o52aqu3BLG1ttph68o1_1280.gif" alt="Banner" width="30%">
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 <p align="center">
 
 </p>
-<h3 align="center">Welcome to my GitHub profile </h3>
+<h3 align="center">Welcome to my GitHub profile ☂️ </h3>
 
 <p align="center"> front-end developer, graphic designer, ui/ux designer, and over all explorer in tech.～☆</p>
 
