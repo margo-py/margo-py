@@ -47,9 +47,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/margo-py"><img src="https://github-readme-stats.vercel.app/api?username=margo-py&hide_border=true&show_icons=true&title_color=9d4edd&icon_color=9d4edd&text_color=9d4edd" alt="margo-py's github stats"></a>
+  <a href="https://github.com/margo-py"><img src="https://github-readme-stats.vercel.app/api?username=margo-py&hide_border=true&show_icons=true&title_color=DA2D90&icon_color=01D8A4&text_color=FCB23F&bg_color=0d1117&theme=dark" alt="margo-py's github stats"></a>
 </p>
-
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
