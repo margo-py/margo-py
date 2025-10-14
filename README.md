@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">hey, its <a href="https://mikadesigns.webflow.io/" style="color: #9d4edd;">miks</a>!</h1>
+<h1 align="center">hey, it's <a href="https://mikadesigns.webflow.io/" style="color: #9d4edd;">miks</a>!</h1>
 <p align="center">
 
 </p>
