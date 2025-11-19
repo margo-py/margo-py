@@ -10,7 +10,7 @@
 </p>
 <h3 align="center">Welcome to my GitHub profile ☂️ </h3>
 
-<p align="center"> front-end developer, graphic designer, ui/ux designer, and over all explorer in tech.～☆</p>
+<p align="center"> data practitioner, front-end developer, graphic designer, ui/ux designer, and over all explorer in tech.～☆</p>
 
 
 
